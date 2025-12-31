@@ -1,0 +1,5 @@
+{
+  "name": "ModelMirror",
+  "description": "An enterprise AI Transparency & Trust Infrastructure providing human-readable explanations, bias detection, and performance drift monitoring for black-box AI systems.",
+  "requestFramePermissions": []
+}
